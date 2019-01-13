@@ -1,6 +1,8 @@
 # optoro-code-challenge
 Take home code challenge by Optoro, found on Huttneab's profile: https://github.com/huttneab/Theatrics
 
+Note that the API is outdated and the challenge was issued 2+ years ago
+
 ## Theatrics
 Optoro take home test
 
